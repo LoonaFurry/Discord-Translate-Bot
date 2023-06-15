@@ -35,4 +35,4 @@ async def translate(ctx, target_lang: str, *, text: str):
     await ctx.send(translated_message)
 
 # Replace 'YOUR_TOKEN' with your Discord bot token
-bot.run('MTA2NzYyNTc1ODUwNTMxMjMyNg.GivMub.DhJxQtNpp59_d-xbmq80h6bREIErDmknACoRpo')
+bot.run('your-token-here')
